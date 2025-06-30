@@ -1,0 +1,8 @@
+name: NaturalDiagonal
+version: '0.1-DEV'
+main: dev.namd.naturalDiagonal.NaturalDiagonal
+api-version: '1.21'
+prefix: ND
+load: STARTUP
+authors: [ NotAMojangDev ]
+website: https://namd.dev/
